@@ -1,5 +1,5 @@
 # paths with spaces need to be escaped
-$miner_bin = "C:\Users\vaicutkiemlua\Desktop\t-rex-0.25.8-win\t-rex-0.25.8-win\t-rex.exe"
+$miner_bin = "C:\Users\kiemlua\Desktop\t-rex-0.25.8-win\t-rex-0.25.8-win\t-rex.exe"
 $miner_bin = $miner_bin -replace ' ', '` '
 
 # define pool, user, and nice worker name
